@@ -1,4 +1,4 @@
-```markdown
+
 # 🗑️ Smart Dustbin - AI Waste Sorting
 
 AI-powered waste classification app that automatically sorts waste into 6 categories: Paper, Plastic, Cardboard, Metal, Glass, and Trash.
