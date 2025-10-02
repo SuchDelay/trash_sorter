@@ -3,7 +3,7 @@
 
 AI-powered waste classification app that automatically sorts waste into 6 categories: Paper, Plastic, Cardboard, Metal, Glass, and Trash.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)
 
@@ -17,15 +17,13 @@ AI-powered waste classification app that automatically sorts waste into 6 catego
 
 - Real-time waste classification
 - 6 waste categories with confidence scores
-- Modern dark UI with animations
-- Drag & drop upload
+
 
 ## Tech Stack
 
 - Flask (Backend)
 - PyTorch (ML Model)
-- Bootstrap 4 (Frontend)
-- Pre-trained CNN model
+- Pre-trained model
 
 ## Installation
 
